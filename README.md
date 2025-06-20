@@ -29,6 +29,12 @@ npx hardhat init
 ```
 Choose "Create a JavaScript project" when prompted.
 
+4. .env:
+```bash
+PRIVATE_KEY= Your Private Key
+RSK_TESTNET_RPC_URL=https://public-node.testnet.rsk.co
+```
+
 ## Project Structure
 
 ```
